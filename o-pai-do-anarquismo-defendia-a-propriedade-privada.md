@@ -1,6 +1,6 @@
 O pai do Anarquismo defendia a propriedade privada
 Por Raphael Moras de Vasconcellos| 21 fevereiro,2017
-https://i1.wp.com/spotniks.com/wp-content/uploads/2014/11/proudhon-636x395.jpg?resize=636%2C395
+![](https://i1.wp.com/spotniks.com/wp-content/uploads/2014/11/proudhon-636x395.jpg?resize=636%2C395)
 
 Os anarquistas deveriam conhecer melhor as ideias de Proudhon sobre a propriedade.
 Escrevo este pequeno artigo para atacar o mito que vem sendo propalado há mais de um século e meio por defensores e opositores igualmente ignorantes ou desonestos: que *a anarquia se sustenta sobre a proposição de que toda propriedade é roubo*. Não pretendo refutar Proudhon nem confirmá-lo, apenas tratar deste mito específico.
@@ -27,7 +27,9 @@ Seja porque as terras roubadas e a riqueza dos seus donos exploradores passaram 
 
 Existem diversas manifestações deste roubo, cujo conjunto de leis subjacentes Proudhon chama de *droit d’aubaine*: o lucro que toma parte do trabalho do operário; o aluguel que usurpa o direito de ocupação; os juros que impedem a participação no investimento. Proudhon jogou nesse mesmo balaio os privilégios políticos estilo comissões, pensões estatais e molhadas de mão.
 
+
 Proudhon conclui este livro propondo diversas justificativas pelas quais *“la propriété est impossible“*. Existem várias versões digitais deste livro em português onde somente esta parte é citada, começando por *“A propriedade é impossível porque é homicida.”* Muitos anarquistas coletivistas conhecem apenas a parte que lhes interessa. As justificativas desta impossibilidade foram escritas para o leitor não esquecer que está diante de um inimigo feroz “da propriedade”: o conjunto histórico das injustiças que levaram à concentração de poder e de capital, que empobrece, esfomeia, brutaliza, e mata aqueles que não possuem propriedade.
+
 
 Até aí estamos diante do Proudhon prestidigitador, escolhendo apenas as formulações que cobrem o conceito de propriedade com um véu de magia negra. Felizmente era ele um polemista de propensão honesta, seja por natureza ou por necessidade, como veremos nas declarações posteriores. Ao enviar o seu recém publicado livro à academia de Besançon, circunscrição acadêmica à qual pertencia como pensionário, junto a uma carta explicando as razões de sua investigação sobre a natureza da propriedade, Proudhon foi rechaçado duramente pelos seus colegas da região da Franche-Comté.
 
@@ -35,7 +37,8 @@ No prefácio da segunda edição do mesmo livro, em 1849, o filósofo explica co
 
 Pierre-Joseph agradece de coração a ajuda e a carta, e desabafa: “Tanta controvérsia me cansa e me aborrece. A inteligência despendida nos combates de palavra é como aquela empregada na guerra: é inteligência perdida. O sr. Blanqui reconhece que existe dentro da propriedade uma multitude de abusos, odiosos abusos; da minha parte, **chamo exclusivamente propriedade a soma desses abusos**” (grifo meu, original abaixo).
 
-http://books.google.fr/books?id=Ai1EAAAAcAAJ&pg=PR15&img=1&zoom=3&hl=en&sig=ACfU3U1Wjr_sCoZ_pgXEG3WuWU_fKdmp0A&ci=68%2C369%2C809%2C414&edge=0
+![](http://books.google.fr/books?id=Ai1EAAAAcAAJ&pg=PR15&img=1&zoom=3&hl=en&sig=ACfU3U1Wjr_sCoZ_pgXEG3WuWU_fKdmp0A&ci=68%2C369%2C809%2C414&edge=0)
+
 [Prefácio da segunda edição de Qu’est-ce que la propriété (1849) pag 15](http://books.google.fr/books?id=Ai1EAAAAcAAJ&pg=PR15#v=onepage&q&f=false)
 
 Não é difícil imaginar a fadiga provocada por incessantes explicações sobre o que **realmente** ele quis dizer com “propriedade é roubo”, ao ponto de um socialista reconhecido (que mais tarde seria eleito, *in absentia* pois prisioneiro, a líder da Comuna de Paris) pedir-lhe comedimento e moderação!
@@ -44,7 +47,8 @@ No mesmo ano deste prefácio, Proudhon confessa ainda em outro livro que sua hip
 
 > “Nos meus primeiros livros, atacando de frente a ordem estabelecida, eu dizia, por exemplo: A propriedade, é o roubo! Tratava-se de protestar, de por assim dizer colocar em relevo a deficiência de nossas instituições. Era a única coisa a me ocupar no momento. Além disso, no livro onde eu demonstrava, por A mais B, essa espantosa proposição, também tinha o cuidado de protestar contra qualquer conclusão comunista. No livro Sistema de Contradições Econômicas, após ter lembrado e confirmado minha primeira definição, adicionei uma outra completamente contrária, porém fundada sobre considerações de outra ordem, que não podiam nem destruir a primeira argumentação nem ser destruída por ela: A propriedade, é a liberdade. A propriedade, é o roubo; a propriedade, é a liberdade: essas duas proposições são igualmente demonstradas e subsistem uma ao lado da outra no [livro] Sistema de Contradições.”
 
-http://books.google.fr/books?id=fMJbAAAAQAAJ&pg=PA122&img=1&zoom=3&hl=en&sig=ACfU3U0dRAAVw5Li69rncmylJJp49o5xWQ&ci=186%2C671%2C732%2C508&edge=0
+![](http://books.google.fr/books?id=fMJbAAAAQAAJ&pg=PA122&img=1&zoom=3&hl=en&sig=ACfU3U0dRAAVw5Li69rncmylJJp49o5xWQ&ci=186%2C671%2C732%2C508&edge=0)
+
 [Les Confessions d’un Révolutionnaire (1849) pg 122](http://books.google.fr/books?id=fMJbAAAAQAAJ&pg=PA122#v=onepage&q&f=false)
 
 Na Declaração de fundação de seu Banque du Peuple, tentativa bem intencionada mas fracassada de instituir seu mutalismo de crédito não remunerado, Proudhon explicou que apesar de ser contra nunca quis proibir a cobrança de juros e de aluguel, desde que, claro está, fossem uma manifestação da propriedade justamente adquirida:
@@ -52,20 +56,24 @@ Na Declaração de fundação de seu Banque du Peuple, tentativa bem intencionad
 > “Protesto, que fazendo a crítica da propriedade, ou por melhor dizer do conjunto de instituições das quais a propriedade é o pivô, nunca quis atacar os direitos individuais reconhecidos por leis anteriores, nem contestar a legitimidade das posses adquiridas, nem provocar uma repartição arbitrária dos bens, nem levantar obstáculos à livre e regular aquisição, por venda e troca, das propriedades; nem mesmo interditar ou eliminar, por decreto soberano, o arrendamento [aluguel de terras produtivas] e os juros sobre o capital.
 > Eu creio que todas essas manifestações da atividade humana devem continuar a ser livres e facultativas a todos; eu não admito por elas outras modificações, restrições e supressões, que aquelas que resultam naturalmente e necessariamente da universalização do princípio de reciprocidade, e da lei de síntese que eu proponho.”
 
-http://books.google.fr/books?id=KnM-AAAAcAAJ&pg=PA4&img=1&zoom=3&hl=en&sig=ACfU3U0krTmQdrX56fFi5oBD1wc2F6YzPA&ci=40%2C99%2C788%2C287&edge=0
+![](http://books.google.fr/books?id=KnM-AAAAcAAJ&pg=PA4&img=1&zoom=3&hl=en&sig=ACfU3U0krTmQdrX56fFi5oBD1wc2F6YzPA&ci=40%2C99%2C788%2C287&edge=0)
+
 [Déclaration de la Banque du Peuple (1849)](http://books.google.fr/books?id=KnM-AAAAcAAJ&dq=banque%20du%20peuple&pg=PA3#v=onepage&q&f=false)
+
 
 Alguns anos mais velho, rugas a mais na testa, no seu livro *A Teoria da Propriedade*, de 1866, podemos ler formulações bastante reformadoras e *“lockeanas“*, do tipo:
 
 > “Para que o cidadão seja qualquer coisa dentro do Estado, não basta que seja livre em sua pessoa; é preciso que sua personalidade se apoie, como a do Estado, sobre uma porção de matéria que ele possui em toda soberania, como o Estado possui a soberania do domínio público. Esta condição é preenchida pela propriedade. Servir de contra-peso ao poder público, equilibrar com o Estado, por esse meio assegurar a liberdade individual: essa é então, no sistema político, a função principal da propriedade. Elimine esta função ou, o que dá no mesmo, retire da propriedade o caráter absolutista na qual a reconhecemos e que a distingue; imponha a ela condições, declare-a intransferível e indivisível: imediatamente ela perde sua força; ela não pesa mais nada; ela torna a ser um simples benefício autorizado; uma dependência do governo, sem ação contra ele.“
 
-http://books.google.fr/books?id=avVMAAAAMAAJ&pg=PA138&img=1&zoom=3&hl=en&sig=ACfU3U0LQ6pKSkK2AUeneHAyMZ2EuGa2Dg&ci=125%2C610%2C849%2C802&edge=0
+![](http://books.google.fr/books?id=avVMAAAAMAAJ&pg=PA138&img=1&zoom=3&hl=en&sig=ACfU3U0LQ6pKSkK2AUeneHAyMZ2EuGa2Dg&ci=125%2C610%2C849%2C802&edge=0)
+
 [Théorie de la Propriété (1866) pg 138](http://books.google.fr/books?id=avVMAAAAMAAJ&vq=prince&pg=PA138#v=onepage&q&f=false)
 
 Do mesmo livro, uma pérola anti-comunista:
 > “Do princípio que a propriedade, irreverenciosa quanto ao príncipe, rebelde à autoridade, anárquica enfim, é a única força que poderia servir de contra-peso ao Estado, provem este corolário: que a propriedade, absolutismo dentro de um outro absolutismo, é ainda para o Estado um elemento de divisão. O poder do Estado é um poder de concentração; dê-lhe a vazão, e toda a individualidade logo desaparecerá, absorvida na coletividade; a sociedade tomba no comunismo; a propriedade, ao contrário, é um poder de descentralização, porque ela mesma é absoluta, ela é anti-despótica, anti-unitária; nela está o pricípio de toda federação: e é por isso que a propriedade, autocrática por essência, transportada a uma sociedade política, ela se torna republicana.“
 
-http://books.google.fr/books?id=avVMAAAAMAAJ&pg=PA144&img=1&zoom=3&hl=en&sig=ACfU3U0EOHEbVJx4s4r8RfvmwHPNe_9qCw&ci=123%2C868%2C845%2C680&edge=0
+![](http://books.google.fr/books?id=avVMAAAAMAAJ&pg=PA144&img=1&zoom=3&hl=en&sig=ACfU3U0EOHEbVJx4s4r8RfvmwHPNe_9qCw&ci=123%2C868%2C845%2C680&edge=0)
+
 [Théorie de la Propriété (1866) pg 144](http://books.google.fr/books?id=avVMAAAAMAAJ&vq=prince&pg=PA144#v=onepage&q&f=false)
 
 Acho que há bastantes exemplos que demonstram o jogo de luzes de Proudhon; enquanto atrai o olhar do espectador para um fato importante, com a outra mão esconde o trunfo para poder mostrar na hora que for conveniente. Certamente socialistas coletivistas e comunistas poderão atacar este presente artigo e encadear uma barreira de citações anti-propriedade do filósofo. Mas será um exercício vão: já desmascaramos nosso *“Proupriedhon“*. Não foi à toa que Jean Jaurés, unificador dos movimentos socialistas franceses, em um discurso na Assembleia Nacional em 1910, afirmou que Proudhon tinha sido [“um grande liberal e um grande socialista”](http://www.miscellanees.com/j/jaures01.htm).
