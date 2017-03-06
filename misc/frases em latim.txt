@@ -1,5 +1,8 @@
-contrario sensu
-sentido contrário
+﻿Frases para pôr no plugin automático de tags abbr.
+
+TODO: pegar mais frases e reorganizar.
+TODO: testar a performace, talvez otimizar (ordenação e quicksort, se não tiver)
+
 A fortiori
 Por mais forte razão
 A fronte
@@ -12,30 +15,20 @@ A magnis maxima
 De grandes causas, grandes efeitos
 A priori
 A princípio, de antes
-Abditae causae
-causa oculta, motivo desconhecido
-Ad arbitrium
-Vontade de outrem
-Ad cautelam
-Por precaução
-Ad impossibilia nemo tenetur
-Ninguém é obrigado a fazer o impossível
 A posteriori
 Do seguinte
-Arbor ex frutcu cognoscitur
-Pelo fruto se conhece a árvore
-Auctor opus laudat
-O autor louva sua obra
-Contradictio in adjecto
-Contradição entre partes de um argumento
-Modus ponens
-eliminação da implicação
-Modus tollens
-negação do consequente
-Mutatis mutandis
-mudando o que tem de ser mudado
-Non sequitur
-não se segue
+Abditae causae
+causa oculta, motivo desconhecido
+
+Argumentum
+Argumento
+
+Ad arbitrium
+ao arbítrio
+Ad cautelam
+à cautela
+Ad impossibilia nemo tenetur
+Ninguém é obrigado a fazer o impossível
 ad misericordiam
 à misericórdia
 ad antiquitatem
@@ -44,10 +37,6 @@ ad novitatem
 à novidade
 ad ignorantiam
 à ignorância
-Petitio principii
-petição de princípio
-Reductio
-Redução
 ad absurdum
 ao absurdo
 ad Hitlerum
@@ -62,10 +51,6 @@ ad metum
 ao medo
 ad populum
 à multidão
-verbosium
-verbosivo
-Dicto Simpliciter
-generalização inadequada
 ad hominem
 à pessoa
 ad lapidem
@@ -73,13 +58,38 @@ ad lapidem
 Tu quoque
 Você também
 ad temperantiam
-da moderação, meio termo
+ao meio termo
 ad verecundiam 
 à autoridade
-Ceteris paribus
-todo o mais é constante
 Ad infinitum
 ao infinito
+
+
+
+
+Contradictio in adjecto
+Contradição entre partes de um argumento
+
+Modus ponens
+eliminação da implicação
+Modus tollens
+negação do consequente
+Mutatis mutandis
+mudando o que tem de ser mudado
+Non sequitur
+não se segue
+Petitio principii
+petição de princípio
+Reductio
+Redução
+verbosium
+verbosivo
+Dicto Simpliciter
+generalização inadequada
+
+Ceteris paribus
+todo o mais é constante
+
 
 
 Ab absurdo
@@ -93,7 +103,7 @@ sem testamento
 Ab irato
 No impeto da ira
 Aberratio ictus
-ato que, dirigido a alguém, atinge indiretamente a terceiro
+ato que atinge indiretamente a terceiro
 Aberratio Rei
 Erro de coisa
 Abolitio criminis
